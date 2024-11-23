@@ -15,7 +15,7 @@ MergeCritic MClint is under active development. Here's the MVP plan:
 3. Integrate OpenAI for AI-driven feedback.
 4. Display feedback directly on PR pages.
 
-Check our [Project Board](link-to-project-board) for detailed tasks and progress.
+Check our [Project Board](https://github.com/users/tijo-thomaz/projects/3/views/1) for detailed tasks and progress.
 
 ## 🎯 Contributing
 We welcome contributions from the community! Feel free to:
